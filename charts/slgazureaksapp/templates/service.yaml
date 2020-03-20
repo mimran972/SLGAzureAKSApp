@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ template "slgazureaksapp.fullname" . }}
+  labels:
+    app: {{ template "slgazureaksapp.name" . }}
+    chart: {{ template "slgazureaksapp.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ template "slgazureaksapp.name" . }}
+    release: {{ .Release.Name }}

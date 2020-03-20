@@ -1,0 +1,9 @@
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\SLGAzureAKSApp.csprojAssemblyReference.cache
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\staticwebassets\SLGAzureAKSApp.StaticWebAssets.Manifest.cache
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\staticwebassets\SLGAzureAKSApp.StaticWebAssets.xml
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\SLGAzureAKSApp.AssemblyInfoInputs.cache
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\SLGAzureAKSApp.AssemblyInfo.cs
+C:\Users\mimran\source\repos\SLGAzureAppDev\SLGAzureAKSApp\obj\Debug\netcoreapp3.1\SLGAzureAKSApp.RazorTargetAssemblyInfo.cache
